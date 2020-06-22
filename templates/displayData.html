@@ -1,0 +1,14 @@
+<html>
+    <body>
+            <table style="width:30%">
+                    {% for array in arrayInts %}
+                    <tr>
+                        {% for value in array %}
+                        <td>{{ value }}</td>
+                        {% endfor %}
+                    </tr>
+
+                    {% endfor %}
+            </table>
+    </body>
+</html>
