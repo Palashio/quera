@@ -1,2 +1,2 @@
 # quera
-The first commercially available neural-fuzzer.
+The first open source neural fuzzing software.
